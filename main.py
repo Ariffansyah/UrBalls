@@ -1,6 +1,6 @@
 from random import choices
 
-urballs = str(input('UrBalls : What is your question = '))
+urballs = input('UrBalls : What is your question = ')
 print('UrBalls : Your question is = ', urballs)
 
 list_answer = [
